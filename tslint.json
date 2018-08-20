@@ -1,0 +1,11 @@
+{
+	"defaultSeverity": "warning",
+	"rules": {
+		"indent": [true, "tabs", 4],
+		"whitespace": true,
+		"semicolon": true,
+		"prefer-method-signature": true,
+		"quotemark": [true, "double"]
+		//"no-unused-variable": true
+	}
+}
