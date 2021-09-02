@@ -1,0 +1,8995 @@
+[
+    {
+        "id": 1,
+        "name": "bulbasaur",
+        "friendlyName": "Bulbasaur",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 1,
+        "moves": []
+    },
+    {
+        "id": 2,
+        "name": "ivysaur",
+        "friendlyName": "Ivysaur",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 1,
+        "moves": []
+    },
+    {
+        "id": 3,
+        "name": "venusaur",
+        "friendlyName": "Venusaur",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 1,
+        "moves": []
+    },
+    {
+        "id": 4,
+        "name": "charmander",
+        "friendlyName": "Charmander",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 4,
+        "moves": []
+    },
+    {
+        "id": 5,
+        "name": "charmeleon",
+        "friendlyName": "Charmeleon",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 4,
+        "moves": []
+    },
+    {
+        "id": 6,
+        "name": "charizard",
+        "friendlyName": "Charizard",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 4,
+        "moves": []
+    },
+    {
+        "id": 7,
+        "name": "squirtle",
+        "friendlyName": "Squirtle",
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 7,
+        "moves": []
+    },
+    {
+        "id": 8,
+        "name": "wartortle",
+        "friendlyName": "Wartortle",
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 7,
+        "moves": []
+    },
+    {
+        "id": 9,
+        "name": "blastoise",
+        "friendlyName": "Blastoise",
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 7,
+        "moves": []
+    },
+    {
+        "id": 10,
+        "name": "caterpie",
+        "friendlyName": "Caterpie",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 10,
+        "moves": []
+    },
+    {
+        "id": 11,
+        "name": "metapod",
+        "friendlyName": "Metapod",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 10,
+        "moves": []
+    },
+    {
+        "id": 12,
+        "name": "butterfree",
+        "friendlyName": "Butterfree",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 10,
+        "moves": []
+    },
+    {
+        "id": 13,
+        "name": "weedle",
+        "friendlyName": "Weedle",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 13,
+        "moves": []
+    },
+    {
+        "id": 14,
+        "name": "kakuna",
+        "friendlyName": "Kakuna",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 13,
+        "moves": []
+    },
+    {
+        "id": 15,
+        "name": "beedrill",
+        "friendlyName": "Beedrill",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 13,
+        "moves": []
+    },
+    {
+        "id": 16,
+        "name": "pidgey",
+        "friendlyName": "Pidgey",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 16,
+        "moves": []
+    },
+    {
+        "id": 17,
+        "name": "pidgeotto",
+        "friendlyName": "Pidgeotto",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 16,
+        "moves": []
+    },
+    {
+        "id": 18,
+        "name": "pidgeot",
+        "friendlyName": "Pidgeot",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 16,
+        "moves": []
+    },
+    {
+        "id": 19,
+        "name": "rattata",
+        "friendlyName": "Rattata",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 19,
+        "moves": []
+    },
+    {
+        "id": 20,
+        "name": "raticate",
+        "friendlyName": "Raticate",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 19,
+        "moves": []
+    },
+    {
+        "id": 21,
+        "name": "spearow",
+        "friendlyName": "Spearow",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 21,
+        "moves": []
+    },
+    {
+        "id": 22,
+        "name": "fearow",
+        "friendlyName": "Fearow",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 21,
+        "moves": []
+    },
+    {
+        "id": 23,
+        "name": "ekans",
+        "friendlyName": "Ekans",
+        "eggGroups": [
+            "Field",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 23,
+        "moves": []
+    },
+    {
+        "id": 24,
+        "name": "arbok",
+        "friendlyName": "Arbok",
+        "eggGroups": [
+            "Field",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 23,
+        "moves": []
+    },
+    {
+        "id": 25,
+        "name": "pikachu",
+        "friendlyName": "Pikachu",
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 172,
+        "moves": []
+    },
+    {
+        "id": 26,
+        "name": "raichu",
+        "friendlyName": "Raichu",
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 172,
+        "moves": []
+    },
+    {
+        "id": 27,
+        "name": "sandshrew",
+        "friendlyName": "Sandshrew",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 27,
+        "moves": []
+    },
+    {
+        "id": 28,
+        "name": "sandslash",
+        "friendlyName": "Sandslash",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 27,
+        "moves": []
+    },
+    {
+        "id": 29,
+        "name": "nidoran-f",
+        "friendlyName": "Nidoran♀",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 29,
+        "moves": []
+    },
+    {
+        "id": 30,
+        "name": "nidorina",
+        "friendlyName": "Nidorina",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 29,
+        "moves": []
+    },
+    {
+        "id": 31,
+        "name": "nidoqueen",
+        "friendlyName": "Nidoqueen",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 29,
+        "moves": []
+    },
+    {
+        "id": 32,
+        "name": "nidoran-m",
+        "friendlyName": "Nidoran♂",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 32,
+        "moves": []
+    },
+    {
+        "id": 33,
+        "name": "nidorino",
+        "friendlyName": "Nidorino",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 32,
+        "moves": []
+    },
+    {
+        "id": 34,
+        "name": "nidoking",
+        "friendlyName": "Nidoking",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 32,
+        "moves": []
+    },
+    {
+        "id": 35,
+        "name": "clefairy",
+        "friendlyName": "Clefairy",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 173,
+        "moves": []
+    },
+    {
+        "id": 36,
+        "name": "clefable",
+        "friendlyName": "Clefable",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 173,
+        "moves": []
+    },
+    {
+        "id": 37,
+        "name": "vulpix",
+        "friendlyName": "Vulpix",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 37,
+        "moves": []
+    },
+    {
+        "id": 38,
+        "name": "ninetales",
+        "friendlyName": "Ninetales",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 37,
+        "moves": []
+    },
+    {
+        "id": 39,
+        "name": "jigglypuff",
+        "friendlyName": "Jigglypuff",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 174,
+        "moves": []
+    },
+    {
+        "id": 40,
+        "name": "wigglytuff",
+        "friendlyName": "Wigglytuff",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 174,
+        "moves": []
+    },
+    {
+        "id": 41,
+        "name": "zubat",
+        "friendlyName": "Zubat",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 41,
+        "moves": []
+    },
+    {
+        "id": 42,
+        "name": "golbat",
+        "friendlyName": "Golbat",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 41,
+        "moves": []
+    },
+    {
+        "id": 43,
+        "name": "oddish",
+        "friendlyName": "Oddish",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 43,
+        "moves": []
+    },
+    {
+        "id": 44,
+        "name": "gloom",
+        "friendlyName": "Gloom",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 43,
+        "moves": []
+    },
+    {
+        "id": 45,
+        "name": "vileplume",
+        "friendlyName": "Vileplume",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 43,
+        "moves": []
+    },
+    {
+        "id": 46,
+        "name": "paras",
+        "friendlyName": "Paras",
+        "eggGroups": [
+            "Bug",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 46,
+        "moves": []
+    },
+    {
+        "id": 47,
+        "name": "parasect",
+        "friendlyName": "Parasect",
+        "eggGroups": [
+            "Bug",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 46,
+        "moves": []
+    },
+    {
+        "id": 48,
+        "name": "venonat",
+        "friendlyName": "Venonat",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 48,
+        "moves": []
+    },
+    {
+        "id": 49,
+        "name": "venomoth",
+        "friendlyName": "Venomoth",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 48,
+        "moves": []
+    },
+    {
+        "id": 50,
+        "name": "diglett",
+        "friendlyName": "Diglett",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 50,
+        "moves": []
+    },
+    {
+        "id": 51,
+        "name": "dugtrio",
+        "friendlyName": "Dugtrio",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 50,
+        "moves": []
+    },
+    {
+        "id": 52,
+        "name": "meowth",
+        "friendlyName": "Meowth",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 52,
+        "moves": []
+    },
+    {
+        "id": 53,
+        "name": "persian",
+        "friendlyName": "Persian",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 52,
+        "moves": []
+    },
+    {
+        "id": 54,
+        "name": "psyduck",
+        "friendlyName": "Psyduck",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 54,
+        "moves": []
+    },
+    {
+        "id": 55,
+        "name": "golduck",
+        "friendlyName": "Golduck",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 54,
+        "moves": []
+    },
+    {
+        "id": 56,
+        "name": "mankey",
+        "friendlyName": "Mankey",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 56,
+        "moves": []
+    },
+    {
+        "id": 57,
+        "name": "primeape",
+        "friendlyName": "Primeape",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 56,
+        "moves": []
+    },
+    {
+        "id": 58,
+        "name": "growlithe",
+        "friendlyName": "Growlithe",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 58,
+        "moves": []
+    },
+    {
+        "id": 59,
+        "name": "arcanine",
+        "friendlyName": "Arcanine",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 58,
+        "moves": []
+    },
+    {
+        "id": 60,
+        "name": "poliwag",
+        "friendlyName": "Poliwag",
+        "eggGroups": [
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 60,
+        "moves": []
+    },
+    {
+        "id": 61,
+        "name": "poliwhirl",
+        "friendlyName": "Poliwhirl",
+        "eggGroups": [
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 60,
+        "moves": []
+    },
+    {
+        "id": 62,
+        "name": "poliwrath",
+        "friendlyName": "Poliwrath",
+        "eggGroups": [
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 60,
+        "moves": []
+    },
+    {
+        "id": 63,
+        "name": "abra",
+        "friendlyName": "Abra",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 63,
+        "moves": []
+    },
+    {
+        "id": 64,
+        "name": "kadabra",
+        "friendlyName": "Kadabra",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 63,
+        "moves": []
+    },
+    {
+        "id": 65,
+        "name": "alakazam",
+        "friendlyName": "Alakazam",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 63,
+        "moves": []
+    },
+    {
+        "id": 66,
+        "name": "machop",
+        "friendlyName": "Machop",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 66,
+        "moves": []
+    },
+    {
+        "id": 67,
+        "name": "machoke",
+        "friendlyName": "Machoke",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 66,
+        "moves": []
+    },
+    {
+        "id": 68,
+        "name": "machamp",
+        "friendlyName": "Machamp",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 66,
+        "moves": []
+    },
+    {
+        "id": 69,
+        "name": "bellsprout",
+        "friendlyName": "Bellsprout",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 69,
+        "moves": []
+    },
+    {
+        "id": 70,
+        "name": "weepinbell",
+        "friendlyName": "Weepinbell",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 69,
+        "moves": []
+    },
+    {
+        "id": 71,
+        "name": "victreebel",
+        "friendlyName": "Victreebel",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 69,
+        "moves": []
+    },
+    {
+        "id": 72,
+        "name": "tentacool",
+        "friendlyName": "Tentacool",
+        "eggGroups": [
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 72,
+        "moves": []
+    },
+    {
+        "id": 73,
+        "name": "tentacruel",
+        "friendlyName": "Tentacruel",
+        "eggGroups": [
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 72,
+        "moves": []
+    },
+    {
+        "id": 74,
+        "name": "geodude",
+        "friendlyName": "Geodude",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 74,
+        "moves": []
+    },
+    {
+        "id": 75,
+        "name": "graveler",
+        "friendlyName": "Graveler",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 74,
+        "moves": []
+    },
+    {
+        "id": 76,
+        "name": "golem",
+        "friendlyName": "Golem",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 74,
+        "moves": []
+    },
+    {
+        "id": 77,
+        "name": "ponyta",
+        "friendlyName": "Ponyta",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 77,
+        "moves": []
+    },
+    {
+        "id": 78,
+        "name": "rapidash",
+        "friendlyName": "Rapidash",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 77,
+        "moves": []
+    },
+    {
+        "id": 79,
+        "name": "slowpoke",
+        "friendlyName": "Slowpoke",
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 79,
+        "moves": []
+    },
+    {
+        "id": 80,
+        "name": "slowbro",
+        "friendlyName": "Slowbro",
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 79,
+        "moves": []
+    },
+    {
+        "id": 81,
+        "name": "magnemite",
+        "friendlyName": "Magnemite",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 81,
+        "moves": []
+    },
+    {
+        "id": 82,
+        "name": "magneton",
+        "friendlyName": "Magneton",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 81,
+        "moves": []
+    },
+    {
+        "id": 83,
+        "name": "farfetchd",
+        "friendlyName": "Farfetch'd",
+        "eggGroups": [
+            "Flying",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 83,
+        "moves": []
+    },
+    {
+        "id": 84,
+        "name": "doduo",
+        "friendlyName": "Doduo",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 84,
+        "moves": []
+    },
+    {
+        "id": 85,
+        "name": "dodrio",
+        "friendlyName": "Dodrio",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 84,
+        "moves": []
+    },
+    {
+        "id": 86,
+        "name": "seel",
+        "friendlyName": "Seel",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 86,
+        "moves": []
+    },
+    {
+        "id": 87,
+        "name": "dewgong",
+        "friendlyName": "Dewgong",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 86,
+        "moves": []
+    },
+    {
+        "id": 88,
+        "name": "grimer",
+        "friendlyName": "Grimer",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 88,
+        "moves": []
+    },
+    {
+        "id": 89,
+        "name": "muk",
+        "friendlyName": "Muk",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 88,
+        "moves": []
+    },
+    {
+        "id": 90,
+        "name": "shellder",
+        "friendlyName": "Shellder",
+        "eggGroups": [
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 90,
+        "moves": []
+    },
+    {
+        "id": 91,
+        "name": "cloyster",
+        "friendlyName": "Cloyster",
+        "eggGroups": [
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 90,
+        "moves": []
+    },
+    {
+        "id": 92,
+        "name": "gastly",
+        "friendlyName": "Gastly",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 92,
+        "moves": []
+    },
+    {
+        "id": 93,
+        "name": "haunter",
+        "friendlyName": "Haunter",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 92,
+        "moves": []
+    },
+    {
+        "id": 94,
+        "name": "gengar",
+        "friendlyName": "Gengar",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 92,
+        "moves": []
+    },
+    {
+        "id": 95,
+        "name": "onix",
+        "friendlyName": "Onix",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 95,
+        "moves": []
+    },
+    {
+        "id": 96,
+        "name": "drowzee",
+        "friendlyName": "Drowzee",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 96,
+        "moves": []
+    },
+    {
+        "id": 97,
+        "name": "hypno",
+        "friendlyName": "Hypno",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 96,
+        "moves": []
+    },
+    {
+        "id": 98,
+        "name": "krabby",
+        "friendlyName": "Krabby",
+        "eggGroups": [
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 98,
+        "moves": []
+    },
+    {
+        "id": 99,
+        "name": "kingler",
+        "friendlyName": "Kingler",
+        "eggGroups": [
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 98,
+        "moves": []
+    },
+    {
+        "id": 100,
+        "name": "voltorb",
+        "friendlyName": "Voltorb",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 100,
+        "moves": []
+    },
+    {
+        "id": 101,
+        "name": "electrode",
+        "friendlyName": "Electrode",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 100,
+        "moves": []
+    },
+    {
+        "id": 102,
+        "name": "exeggcute",
+        "friendlyName": "Exeggcute",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 102,
+        "moves": []
+    },
+    {
+        "id": 103,
+        "name": "exeggutor",
+        "friendlyName": "Exeggutor",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 102,
+        "moves": []
+    },
+    {
+        "id": 104,
+        "name": "cubone",
+        "friendlyName": "Cubone",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 104,
+        "moves": []
+    },
+    {
+        "id": 105,
+        "name": "marowak",
+        "friendlyName": "Marowak",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 104,
+        "moves": []
+    },
+    {
+        "id": 106,
+        "name": "hitmonlee",
+        "friendlyName": "Hitmonlee",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 236,
+        "moves": []
+    },
+    {
+        "id": 107,
+        "name": "hitmonchan",
+        "friendlyName": "Hitmonchan",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 236,
+        "moves": []
+    },
+    {
+        "id": 108,
+        "name": "lickitung",
+        "friendlyName": "Lickitung",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 108,
+        "moves": []
+    },
+    {
+        "id": 109,
+        "name": "koffing",
+        "friendlyName": "Koffing",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 109,
+        "moves": []
+    },
+    {
+        "id": 110,
+        "name": "weezing",
+        "friendlyName": "Weezing",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 109,
+        "moves": []
+    },
+    {
+        "id": 111,
+        "name": "rhyhorn",
+        "friendlyName": "Rhyhorn",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 111,
+        "moves": []
+    },
+    {
+        "id": 112,
+        "name": "rhydon",
+        "friendlyName": "Rhydon",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 111,
+        "moves": []
+    },
+    {
+        "id": 113,
+        "name": "chansey",
+        "friendlyName": "Chansey",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 440,
+        "moves": []
+    },
+    {
+        "id": 114,
+        "name": "tangela",
+        "friendlyName": "Tangela",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 114,
+        "moves": []
+    },
+    {
+        "id": 115,
+        "name": "kangaskhan",
+        "friendlyName": "Kangaskhan",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 115,
+        "moves": []
+    },
+    {
+        "id": 116,
+        "name": "horsea",
+        "friendlyName": "Horsea",
+        "eggGroups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 116,
+        "moves": []
+    },
+    {
+        "id": 117,
+        "name": "seadra",
+        "friendlyName": "Seadra",
+        "eggGroups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 116,
+        "moves": []
+    },
+    {
+        "id": 118,
+        "name": "goldeen",
+        "friendlyName": "Goldeen",
+        "eggGroups": [
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 118,
+        "moves": []
+    },
+    {
+        "id": 119,
+        "name": "seaking",
+        "friendlyName": "Seaking",
+        "eggGroups": [
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 118,
+        "moves": []
+    },
+    {
+        "id": 120,
+        "name": "staryu",
+        "friendlyName": "Staryu",
+        "eggGroups": [
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 120,
+        "moves": []
+    },
+    {
+        "id": 121,
+        "name": "starmie",
+        "friendlyName": "Starmie",
+        "eggGroups": [
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 120,
+        "moves": []
+    },
+    {
+        "id": 122,
+        "name": "mr-mime",
+        "friendlyName": "Mr. Mime",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 439,
+        "moves": []
+    },
+    {
+        "id": 123,
+        "name": "scyther",
+        "friendlyName": "Scyther",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 123,
+        "moves": []
+    },
+    {
+        "id": 124,
+        "name": "jynx",
+        "friendlyName": "Jynx",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 238,
+        "moves": []
+    },
+    {
+        "id": 125,
+        "name": "electabuzz",
+        "friendlyName": "Electabuzz",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 239,
+        "moves": []
+    },
+    {
+        "id": 126,
+        "name": "magmar",
+        "friendlyName": "Magmar",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 240,
+        "moves": []
+    },
+    {
+        "id": 127,
+        "name": "pinsir",
+        "friendlyName": "Pinsir",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 127,
+        "moves": []
+    },
+    {
+        "id": 128,
+        "name": "tauros",
+        "friendlyName": "Tauros",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 128,
+        "moves": []
+    },
+    {
+        "id": 129,
+        "name": "magikarp",
+        "friendlyName": "Magikarp",
+        "eggGroups": [
+            "Water 2",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 129,
+        "moves": []
+    },
+    {
+        "id": 130,
+        "name": "gyarados",
+        "friendlyName": "Gyarados",
+        "eggGroups": [
+            "Water 2",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 129,
+        "moves": []
+    },
+    {
+        "id": 131,
+        "name": "lapras",
+        "friendlyName": "Lapras",
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 131,
+        "moves": []
+    },
+    {
+        "id": 132,
+        "name": "ditto",
+        "friendlyName": "Ditto",
+        "eggGroups": [
+            "Ditto"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 132,
+        "moves": []
+    },
+    {
+        "id": 133,
+        "name": "eevee",
+        "friendlyName": "Eevee",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 133,
+        "moves": []
+    },
+    {
+        "id": 134,
+        "name": "vaporeon",
+        "friendlyName": "Vaporeon",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 133,
+        "moves": []
+    },
+    {
+        "id": 135,
+        "name": "jolteon",
+        "friendlyName": "Jolteon",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 133,
+        "moves": []
+    },
+    {
+        "id": 136,
+        "name": "flareon",
+        "friendlyName": "Flareon",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 133,
+        "moves": []
+    },
+    {
+        "id": 137,
+        "name": "porygon",
+        "friendlyName": "Porygon",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 137,
+        "moves": []
+    },
+    {
+        "id": 138,
+        "name": "omanyte",
+        "friendlyName": "Omanyte",
+        "eggGroups": [
+            "Water 1",
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 138,
+        "moves": []
+    },
+    {
+        "id": 139,
+        "name": "omastar",
+        "friendlyName": "Omastar",
+        "eggGroups": [
+            "Water 1",
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 138,
+        "moves": []
+    },
+    {
+        "id": 140,
+        "name": "kabuto",
+        "friendlyName": "Kabuto",
+        "eggGroups": [
+            "Water 1",
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 140,
+        "moves": []
+    },
+    {
+        "id": 141,
+        "name": "kabutops",
+        "friendlyName": "Kabutops",
+        "eggGroups": [
+            "Water 1",
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 140,
+        "moves": []
+    },
+    {
+        "id": 142,
+        "name": "aerodactyl",
+        "friendlyName": "Aerodactyl",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 142,
+        "moves": []
+    },
+    {
+        "id": 143,
+        "name": "snorlax",
+        "friendlyName": "Snorlax",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 446,
+        "moves": []
+    },
+    {
+        "id": 144,
+        "name": "articuno",
+        "friendlyName": "Articuno",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 144,
+        "moves": []
+    },
+    {
+        "id": 145,
+        "name": "zapdos",
+        "friendlyName": "Zapdos",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 145,
+        "moves": []
+    },
+    {
+        "id": 146,
+        "name": "moltres",
+        "friendlyName": "Moltres",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 146,
+        "moves": []
+    },
+    {
+        "id": 147,
+        "name": "dratini",
+        "friendlyName": "Dratini",
+        "eggGroups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 147,
+        "moves": []
+    },
+    {
+        "id": 148,
+        "name": "dragonair",
+        "friendlyName": "Dragonair",
+        "eggGroups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 147,
+        "moves": []
+    },
+    {
+        "id": 149,
+        "name": "dragonite",
+        "friendlyName": "Dragonite",
+        "eggGroups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 147,
+        "moves": []
+    },
+    {
+        "id": 150,
+        "name": "mewtwo",
+        "friendlyName": "Mewtwo",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 150,
+        "moves": []
+    },
+    {
+        "id": 151,
+        "name": "mew",
+        "friendlyName": "Mew",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 151,
+        "moves": []
+    },
+    {
+        "id": 152,
+        "name": "chikorita",
+        "friendlyName": "Chikorita",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 152,
+        "moves": []
+    },
+    {
+        "id": 153,
+        "name": "bayleef",
+        "friendlyName": "Bayleef",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 152,
+        "moves": []
+    },
+    {
+        "id": 154,
+        "name": "meganium",
+        "friendlyName": "Meganium",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 152,
+        "moves": []
+    },
+    {
+        "id": 155,
+        "name": "cyndaquil",
+        "friendlyName": "Cyndaquil",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 155,
+        "moves": []
+    },
+    {
+        "id": 156,
+        "name": "quilava",
+        "friendlyName": "Quilava",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 155,
+        "moves": []
+    },
+    {
+        "id": 157,
+        "name": "typhlosion",
+        "friendlyName": "Typhlosion",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 155,
+        "moves": []
+    },
+    {
+        "id": 158,
+        "name": "totodile",
+        "friendlyName": "Totodile",
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 158,
+        "moves": []
+    },
+    {
+        "id": 159,
+        "name": "croconaw",
+        "friendlyName": "Croconaw",
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 158,
+        "moves": []
+    },
+    {
+        "id": 160,
+        "name": "feraligatr",
+        "friendlyName": "Feraligatr",
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 158,
+        "moves": []
+    },
+    {
+        "id": 161,
+        "name": "sentret",
+        "friendlyName": "Sentret",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 161,
+        "moves": []
+    },
+    {
+        "id": 162,
+        "name": "furret",
+        "friendlyName": "Furret",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 161,
+        "moves": []
+    },
+    {
+        "id": 163,
+        "name": "hoothoot",
+        "friendlyName": "Hoothoot",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 163,
+        "moves": []
+    },
+    {
+        "id": 164,
+        "name": "noctowl",
+        "friendlyName": "Noctowl",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 163,
+        "moves": []
+    },
+    {
+        "id": 165,
+        "name": "ledyba",
+        "friendlyName": "Ledyba",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 165,
+        "moves": []
+    },
+    {
+        "id": 166,
+        "name": "ledian",
+        "friendlyName": "Ledian",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 165,
+        "moves": []
+    },
+    {
+        "id": 167,
+        "name": "spinarak",
+        "friendlyName": "Spinarak",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 167,
+        "moves": []
+    },
+    {
+        "id": 168,
+        "name": "ariados",
+        "friendlyName": "Ariados",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 167,
+        "moves": []
+    },
+    {
+        "id": 169,
+        "name": "crobat",
+        "friendlyName": "Crobat",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 41,
+        "moves": []
+    },
+    {
+        "id": 170,
+        "name": "chinchou",
+        "friendlyName": "Chinchou",
+        "eggGroups": [
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 170,
+        "moves": []
+    },
+    {
+        "id": 171,
+        "name": "lanturn",
+        "friendlyName": "Lanturn",
+        "eggGroups": [
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 170,
+        "moves": []
+    },
+    {
+        "id": 172,
+        "name": "pichu",
+        "friendlyName": "Pichu",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 172,
+        "moves": []
+    },
+    {
+        "id": 173,
+        "name": "cleffa",
+        "friendlyName": "Cleffa",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 173,
+        "moves": []
+    },
+    {
+        "id": 174,
+        "name": "igglybuff",
+        "friendlyName": "Igglybuff",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 174,
+        "moves": []
+    },
+    {
+        "id": 175,
+        "name": "togepi",
+        "friendlyName": "Togepi",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 175,
+        "moves": []
+    },
+    {
+        "id": 176,
+        "name": "togetic",
+        "friendlyName": "Togetic",
+        "eggGroups": [
+            "Flying",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 175,
+        "moves": []
+    },
+    {
+        "id": 177,
+        "name": "natu",
+        "friendlyName": "Natu",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 177,
+        "moves": []
+    },
+    {
+        "id": 178,
+        "name": "xatu",
+        "friendlyName": "Xatu",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 177,
+        "moves": []
+    },
+    {
+        "id": 179,
+        "name": "mareep",
+        "friendlyName": "Mareep",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 179,
+        "moves": []
+    },
+    {
+        "id": 180,
+        "name": "flaaffy",
+        "friendlyName": "Flaaffy",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 179,
+        "moves": []
+    },
+    {
+        "id": 181,
+        "name": "ampharos",
+        "friendlyName": "Ampharos",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 179,
+        "moves": []
+    },
+    {
+        "id": 182,
+        "name": "bellossom",
+        "friendlyName": "Bellossom",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 43,
+        "moves": []
+    },
+    {
+        "id": 183,
+        "name": "marill",
+        "friendlyName": "Marill",
+        "eggGroups": [
+            "Water 1",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 298,
+        "moves": []
+    },
+    {
+        "id": 184,
+        "name": "azumarill",
+        "friendlyName": "Azumarill",
+        "eggGroups": [
+            "Water 1",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 298,
+        "moves": []
+    },
+    {
+        "id": 185,
+        "name": "sudowoodo",
+        "friendlyName": "Sudowoodo",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 438,
+        "moves": []
+    },
+    {
+        "id": 186,
+        "name": "politoed",
+        "friendlyName": "Politoed",
+        "eggGroups": [
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 60,
+        "moves": []
+    },
+    {
+        "id": 187,
+        "name": "hoppip",
+        "friendlyName": "Hoppip",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 187,
+        "moves": []
+    },
+    {
+        "id": 188,
+        "name": "skiploom",
+        "friendlyName": "Skiploom",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 187,
+        "moves": []
+    },
+    {
+        "id": 189,
+        "name": "jumpluff",
+        "friendlyName": "Jumpluff",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 187,
+        "moves": []
+    },
+    {
+        "id": 190,
+        "name": "aipom",
+        "friendlyName": "Aipom",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 190,
+        "moves": []
+    },
+    {
+        "id": 191,
+        "name": "sunkern",
+        "friendlyName": "Sunkern",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 191,
+        "moves": []
+    },
+    {
+        "id": 192,
+        "name": "sunflora",
+        "friendlyName": "Sunflora",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 191,
+        "moves": []
+    },
+    {
+        "id": 193,
+        "name": "yanma",
+        "friendlyName": "Yanma",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 193,
+        "moves": []
+    },
+    {
+        "id": 194,
+        "name": "wooper",
+        "friendlyName": "Wooper",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 194,
+        "moves": []
+    },
+    {
+        "id": 195,
+        "name": "quagsire",
+        "friendlyName": "Quagsire",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 194,
+        "moves": []
+    },
+    {
+        "id": 196,
+        "name": "espeon",
+        "friendlyName": "Espeon",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 133,
+        "moves": []
+    },
+    {
+        "id": 197,
+        "name": "umbreon",
+        "friendlyName": "Umbreon",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 133,
+        "moves": []
+    },
+    {
+        "id": 198,
+        "name": "murkrow",
+        "friendlyName": "Murkrow",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 198,
+        "moves": []
+    },
+    {
+        "id": 199,
+        "name": "slowking",
+        "friendlyName": "Slowking",
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 79,
+        "moves": []
+    },
+    {
+        "id": 200,
+        "name": "misdreavus",
+        "friendlyName": "Misdreavus",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 200,
+        "moves": []
+    },
+    {
+        "id": 201,
+        "name": "unown",
+        "friendlyName": "Unown",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 201,
+        "moves": []
+    },
+    {
+        "id": 202,
+        "name": "wobbuffet",
+        "friendlyName": "Wobbuffet",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 360,
+        "moves": []
+    },
+    {
+        "id": 203,
+        "name": "girafarig",
+        "friendlyName": "Girafarig",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 203,
+        "moves": []
+    },
+    {
+        "id": 204,
+        "name": "pineco",
+        "friendlyName": "Pineco",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 204,
+        "moves": []
+    },
+    {
+        "id": 205,
+        "name": "forretress",
+        "friendlyName": "Forretress",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 204,
+        "moves": []
+    },
+    {
+        "id": 206,
+        "name": "dunsparce",
+        "friendlyName": "Dunsparce",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 206,
+        "moves": []
+    },
+    {
+        "id": 207,
+        "name": "gligar",
+        "friendlyName": "Gligar",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 207,
+        "moves": []
+    },
+    {
+        "id": 208,
+        "name": "steelix",
+        "friendlyName": "Steelix",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 95,
+        "moves": []
+    },
+    {
+        "id": 209,
+        "name": "snubbull",
+        "friendlyName": "Snubbull",
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 209,
+        "moves": []
+    },
+    {
+        "id": 210,
+        "name": "granbull",
+        "friendlyName": "Granbull",
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 209,
+        "moves": []
+    },
+    {
+        "id": 211,
+        "name": "qwilfish",
+        "friendlyName": "Qwilfish",
+        "eggGroups": [
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 211,
+        "moves": []
+    },
+    {
+        "id": 212,
+        "name": "scizor",
+        "friendlyName": "Scizor",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 123,
+        "moves": []
+    },
+    {
+        "id": 213,
+        "name": "shuckle",
+        "friendlyName": "Shuckle",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 213,
+        "moves": []
+    },
+    {
+        "id": 214,
+        "name": "heracross",
+        "friendlyName": "Heracross",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 214,
+        "moves": []
+    },
+    {
+        "id": 215,
+        "name": "sneasel",
+        "friendlyName": "Sneasel",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 215,
+        "moves": []
+    },
+    {
+        "id": 216,
+        "name": "teddiursa",
+        "friendlyName": "Teddiursa",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 216,
+        "moves": []
+    },
+    {
+        "id": 217,
+        "name": "ursaring",
+        "friendlyName": "Ursaring",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 216,
+        "moves": []
+    },
+    {
+        "id": 218,
+        "name": "slugma",
+        "friendlyName": "Slugma",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 218,
+        "moves": []
+    },
+    {
+        "id": 219,
+        "name": "magcargo",
+        "friendlyName": "Magcargo",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 218,
+        "moves": []
+    },
+    {
+        "id": 220,
+        "name": "swinub",
+        "friendlyName": "Swinub",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 220,
+        "moves": []
+    },
+    {
+        "id": 221,
+        "name": "piloswine",
+        "friendlyName": "Piloswine",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 220,
+        "moves": []
+    },
+    {
+        "id": 222,
+        "name": "corsola",
+        "friendlyName": "Corsola",
+        "eggGroups": [
+            "Water 1",
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 222,
+        "moves": []
+    },
+    {
+        "id": 223,
+        "name": "remoraid",
+        "friendlyName": "Remoraid",
+        "eggGroups": [
+            "Water 1",
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 223,
+        "moves": []
+    },
+    {
+        "id": 224,
+        "name": "octillery",
+        "friendlyName": "Octillery",
+        "eggGroups": [
+            "Water 1",
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 223,
+        "moves": []
+    },
+    {
+        "id": 225,
+        "name": "delibird",
+        "friendlyName": "Delibird",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 225,
+        "moves": []
+    },
+    {
+        "id": 226,
+        "name": "mantine",
+        "friendlyName": "Mantine",
+        "eggGroups": [
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 458,
+        "moves": []
+    },
+    {
+        "id": 227,
+        "name": "skarmory",
+        "friendlyName": "Skarmory",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 227,
+        "moves": []
+    },
+    {
+        "id": 228,
+        "name": "houndour",
+        "friendlyName": "Houndour",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 228,
+        "moves": []
+    },
+    {
+        "id": 229,
+        "name": "houndoom",
+        "friendlyName": "Houndoom",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 228,
+        "moves": []
+    },
+    {
+        "id": 230,
+        "name": "kingdra",
+        "friendlyName": "Kingdra",
+        "eggGroups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 116,
+        "moves": []
+    },
+    {
+        "id": 231,
+        "name": "phanpy",
+        "friendlyName": "Phanpy",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 231,
+        "moves": []
+    },
+    {
+        "id": 232,
+        "name": "donphan",
+        "friendlyName": "Donphan",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 231,
+        "moves": []
+    },
+    {
+        "id": 233,
+        "name": "porygon2",
+        "friendlyName": "Porygon2",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 137,
+        "moves": []
+    },
+    {
+        "id": 234,
+        "name": "stantler",
+        "friendlyName": "Stantler",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 234,
+        "moves": []
+    },
+    {
+        "id": 235,
+        "name": "smeargle",
+        "friendlyName": "Smeargle",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 235,
+        "moves": []
+    },
+    {
+        "id": 236,
+        "name": "tyrogue",
+        "friendlyName": "Tyrogue",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 236,
+        "moves": []
+    },
+    {
+        "id": 237,
+        "name": "hitmontop",
+        "friendlyName": "Hitmontop",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 236,
+        "moves": []
+    },
+    {
+        "id": 238,
+        "name": "smoochum",
+        "friendlyName": "Smoochum",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 238,
+        "moves": []
+    },
+    {
+        "id": 239,
+        "name": "elekid",
+        "friendlyName": "Elekid",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 239,
+        "moves": []
+    },
+    {
+        "id": 240,
+        "name": "magby",
+        "friendlyName": "Magby",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 240,
+        "moves": []
+    },
+    {
+        "id": 241,
+        "name": "miltank",
+        "friendlyName": "Miltank",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 241,
+        "moves": []
+    },
+    {
+        "id": 242,
+        "name": "blissey",
+        "friendlyName": "Blissey",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 440,
+        "moves": []
+    },
+    {
+        "id": 243,
+        "name": "raikou",
+        "friendlyName": "Raikou",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 243,
+        "moves": []
+    },
+    {
+        "id": 244,
+        "name": "entei",
+        "friendlyName": "Entei",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 244,
+        "moves": []
+    },
+    {
+        "id": 245,
+        "name": "suicune",
+        "friendlyName": "Suicune",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 245,
+        "moves": []
+    },
+    {
+        "id": 246,
+        "name": "larvitar",
+        "friendlyName": "Larvitar",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 246,
+        "moves": []
+    },
+    {
+        "id": 247,
+        "name": "pupitar",
+        "friendlyName": "Pupitar",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 246,
+        "moves": []
+    },
+    {
+        "id": 248,
+        "name": "tyranitar",
+        "friendlyName": "Tyranitar",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 246,
+        "moves": []
+    },
+    {
+        "id": 249,
+        "name": "lugia",
+        "friendlyName": "Lugia",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 249,
+        "moves": []
+    },
+    {
+        "id": 250,
+        "name": "ho-oh",
+        "friendlyName": "Ho-Oh",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 250,
+        "moves": []
+    },
+    {
+        "id": 251,
+        "name": "celebi",
+        "friendlyName": "Celebi",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 251,
+        "moves": []
+    },
+    {
+        "id": 252,
+        "name": "treecko",
+        "friendlyName": "Treecko",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 252,
+        "moves": []
+    },
+    {
+        "id": 253,
+        "name": "grovyle",
+        "friendlyName": "Grovyle",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 252,
+        "moves": []
+    },
+    {
+        "id": 254,
+        "name": "sceptile",
+        "friendlyName": "Sceptile",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 252,
+        "moves": []
+    },
+    {
+        "id": 255,
+        "name": "torchic",
+        "friendlyName": "Torchic",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 255,
+        "moves": []
+    },
+    {
+        "id": 256,
+        "name": "combusken",
+        "friendlyName": "Combusken",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 255,
+        "moves": []
+    },
+    {
+        "id": 257,
+        "name": "blaziken",
+        "friendlyName": "Blaziken",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 255,
+        "moves": []
+    },
+    {
+        "id": 258,
+        "name": "mudkip",
+        "friendlyName": "Mudkip",
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 258,
+        "moves": []
+    },
+    {
+        "id": 259,
+        "name": "marshtomp",
+        "friendlyName": "Marshtomp",
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 258,
+        "moves": []
+    },
+    {
+        "id": 260,
+        "name": "swampert",
+        "friendlyName": "Swampert",
+        "eggGroups": [
+            "Monster",
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 258,
+        "moves": []
+    },
+    {
+        "id": 261,
+        "name": "poochyena",
+        "friendlyName": "Poochyena",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 261,
+        "moves": []
+    },
+    {
+        "id": 262,
+        "name": "mightyena",
+        "friendlyName": "Mightyena",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 261,
+        "moves": []
+    },
+    {
+        "id": 263,
+        "name": "zigzagoon",
+        "friendlyName": "Zigzagoon",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 263,
+        "moves": []
+    },
+    {
+        "id": 264,
+        "name": "linoone",
+        "friendlyName": "Linoone",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 263,
+        "moves": []
+    },
+    {
+        "id": 265,
+        "name": "wurmple",
+        "friendlyName": "Wurmple",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 265,
+        "moves": []
+    },
+    {
+        "id": 266,
+        "name": "silcoon",
+        "friendlyName": "Silcoon",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 265,
+        "moves": []
+    },
+    {
+        "id": 267,
+        "name": "beautifly",
+        "friendlyName": "Beautifly",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 265,
+        "moves": []
+    },
+    {
+        "id": 268,
+        "name": "cascoon",
+        "friendlyName": "Cascoon",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 265,
+        "moves": []
+    },
+    {
+        "id": 269,
+        "name": "dustox",
+        "friendlyName": "Dustox",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 265,
+        "moves": []
+    },
+    {
+        "id": 270,
+        "name": "lotad",
+        "friendlyName": "Lotad",
+        "eggGroups": [
+            "Water 1",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 270,
+        "moves": []
+    },
+    {
+        "id": 271,
+        "name": "lombre",
+        "friendlyName": "Lombre",
+        "eggGroups": [
+            "Water 1",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 270,
+        "moves": []
+    },
+    {
+        "id": 272,
+        "name": "ludicolo",
+        "friendlyName": "Ludicolo",
+        "eggGroups": [
+            "Water 1",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 270,
+        "moves": []
+    },
+    {
+        "id": 273,
+        "name": "seedot",
+        "friendlyName": "Seedot",
+        "eggGroups": [
+            "Field",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 273,
+        "moves": []
+    },
+    {
+        "id": 274,
+        "name": "nuzleaf",
+        "friendlyName": "Nuzleaf",
+        "eggGroups": [
+            "Field",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 273,
+        "moves": []
+    },
+    {
+        "id": 275,
+        "name": "shiftry",
+        "friendlyName": "Shiftry",
+        "eggGroups": [
+            "Field",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 273,
+        "moves": []
+    },
+    {
+        "id": 276,
+        "name": "taillow",
+        "friendlyName": "Taillow",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 276,
+        "moves": []
+    },
+    {
+        "id": 277,
+        "name": "swellow",
+        "friendlyName": "Swellow",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 276,
+        "moves": []
+    },
+    {
+        "id": 278,
+        "name": "wingull",
+        "friendlyName": "Wingull",
+        "eggGroups": [
+            "Water 1",
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 278,
+        "moves": []
+    },
+    {
+        "id": 279,
+        "name": "pelipper",
+        "friendlyName": "Pelipper",
+        "eggGroups": [
+            "Water 1",
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 278,
+        "moves": []
+    },
+    {
+        "id": 280,
+        "name": "ralts",
+        "friendlyName": "Ralts",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 280,
+        "moves": []
+    },
+    {
+        "id": 281,
+        "name": "kirlia",
+        "friendlyName": "Kirlia",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 280,
+        "moves": []
+    },
+    {
+        "id": 282,
+        "name": "gardevoir",
+        "friendlyName": "Gardevoir",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 280,
+        "moves": []
+    },
+    {
+        "id": 283,
+        "name": "surskit",
+        "friendlyName": "Surskit",
+        "eggGroups": [
+            "Water 1",
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 283,
+        "moves": []
+    },
+    {
+        "id": 284,
+        "name": "masquerain",
+        "friendlyName": "Masquerain",
+        "eggGroups": [
+            "Water 1",
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 283,
+        "moves": []
+    },
+    {
+        "id": 285,
+        "name": "shroomish",
+        "friendlyName": "Shroomish",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 285,
+        "moves": []
+    },
+    {
+        "id": 286,
+        "name": "breloom",
+        "friendlyName": "Breloom",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 285,
+        "moves": []
+    },
+    {
+        "id": 287,
+        "name": "slakoth",
+        "friendlyName": "Slakoth",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 287,
+        "moves": []
+    },
+    {
+        "id": 288,
+        "name": "vigoroth",
+        "friendlyName": "Vigoroth",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 287,
+        "moves": []
+    },
+    {
+        "id": 289,
+        "name": "slaking",
+        "friendlyName": "Slaking",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 287,
+        "moves": []
+    },
+    {
+        "id": 290,
+        "name": "nincada",
+        "friendlyName": "Nincada",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 290,
+        "moves": []
+    },
+    {
+        "id": 291,
+        "name": "ninjask",
+        "friendlyName": "Ninjask",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 290,
+        "moves": []
+    },
+    {
+        "id": 292,
+        "name": "shedinja",
+        "friendlyName": "Shedinja",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 290,
+        "moves": []
+    },
+    {
+        "id": 293,
+        "name": "whismur",
+        "friendlyName": "Whismur",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 293,
+        "moves": []
+    },
+    {
+        "id": 294,
+        "name": "loudred",
+        "friendlyName": "Loudred",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 293,
+        "moves": []
+    },
+    {
+        "id": 295,
+        "name": "exploud",
+        "friendlyName": "Exploud",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 293,
+        "moves": []
+    },
+    {
+        "id": 296,
+        "name": "makuhita",
+        "friendlyName": "Makuhita",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 296,
+        "moves": []
+    },
+    {
+        "id": 297,
+        "name": "hariyama",
+        "friendlyName": "Hariyama",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 296,
+        "moves": []
+    },
+    {
+        "id": 298,
+        "name": "azurill",
+        "friendlyName": "Azurill",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 298,
+        "moves": []
+    },
+    {
+        "id": 299,
+        "name": "nosepass",
+        "friendlyName": "Nosepass",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 299,
+        "moves": []
+    },
+    {
+        "id": 300,
+        "name": "skitty",
+        "friendlyName": "Skitty",
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 300,
+        "moves": []
+    },
+    {
+        "id": 301,
+        "name": "delcatty",
+        "friendlyName": "Delcatty",
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 300,
+        "moves": []
+    },
+    {
+        "id": 302,
+        "name": "sableye",
+        "friendlyName": "Sableye",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 302,
+        "moves": []
+    },
+    {
+        "id": 303,
+        "name": "mawile",
+        "friendlyName": "Mawile",
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 303,
+        "moves": []
+    },
+    {
+        "id": 304,
+        "name": "aron",
+        "friendlyName": "Aron",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 304,
+        "moves": []
+    },
+    {
+        "id": 305,
+        "name": "lairon",
+        "friendlyName": "Lairon",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 304,
+        "moves": []
+    },
+    {
+        "id": 306,
+        "name": "aggron",
+        "friendlyName": "Aggron",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 304,
+        "moves": []
+    },
+    {
+        "id": 307,
+        "name": "meditite",
+        "friendlyName": "Meditite",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 307,
+        "moves": []
+    },
+    {
+        "id": 308,
+        "name": "medicham",
+        "friendlyName": "Medicham",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 307,
+        "moves": []
+    },
+    {
+        "id": 309,
+        "name": "electrike",
+        "friendlyName": "Electrike",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 309,
+        "moves": []
+    },
+    {
+        "id": 310,
+        "name": "manectric",
+        "friendlyName": "Manectric",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 309,
+        "moves": []
+    },
+    {
+        "id": 311,
+        "name": "plusle",
+        "friendlyName": "Plusle",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 311,
+        "moves": []
+    },
+    {
+        "id": 312,
+        "name": "minun",
+        "friendlyName": "Minun",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 312,
+        "moves": []
+    },
+    {
+        "id": 313,
+        "name": "volbeat",
+        "friendlyName": "Volbeat",
+        "eggGroups": [
+            "Bug",
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 313,
+        "moves": []
+    },
+    {
+        "id": 314,
+        "name": "illumise",
+        "friendlyName": "Illumise",
+        "eggGroups": [
+            "Bug",
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 314,
+        "moves": []
+    },
+    {
+        "id": 315,
+        "name": "roselia",
+        "friendlyName": "Roselia",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 406,
+        "moves": []
+    },
+    {
+        "id": 316,
+        "name": "gulpin",
+        "friendlyName": "Gulpin",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 316,
+        "moves": []
+    },
+    {
+        "id": 317,
+        "name": "swalot",
+        "friendlyName": "Swalot",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 316,
+        "moves": []
+    },
+    {
+        "id": 318,
+        "name": "carvanha",
+        "friendlyName": "Carvanha",
+        "eggGroups": [
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 318,
+        "moves": []
+    },
+    {
+        "id": 319,
+        "name": "sharpedo",
+        "friendlyName": "Sharpedo",
+        "eggGroups": [
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 318,
+        "moves": []
+    },
+    {
+        "id": 320,
+        "name": "wailmer",
+        "friendlyName": "Wailmer",
+        "eggGroups": [
+            "Field",
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 320,
+        "moves": []
+    },
+    {
+        "id": 321,
+        "name": "wailord",
+        "friendlyName": "Wailord",
+        "eggGroups": [
+            "Field",
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 320,
+        "moves": []
+    },
+    {
+        "id": 322,
+        "name": "numel",
+        "friendlyName": "Numel",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 322,
+        "moves": []
+    },
+    {
+        "id": 323,
+        "name": "camerupt",
+        "friendlyName": "Camerupt",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 322,
+        "moves": []
+    },
+    {
+        "id": 324,
+        "name": "torkoal",
+        "friendlyName": "Torkoal",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 324,
+        "moves": []
+    },
+    {
+        "id": 325,
+        "name": "spoink",
+        "friendlyName": "Spoink",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 325,
+        "moves": []
+    },
+    {
+        "id": 326,
+        "name": "grumpig",
+        "friendlyName": "Grumpig",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 325,
+        "moves": []
+    },
+    {
+        "id": 327,
+        "name": "spinda",
+        "friendlyName": "Spinda",
+        "eggGroups": [
+            "Field",
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 327,
+        "moves": []
+    },
+    {
+        "id": 328,
+        "name": "trapinch",
+        "friendlyName": "Trapinch",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 328,
+        "moves": []
+    },
+    {
+        "id": 329,
+        "name": "vibrava",
+        "friendlyName": "Vibrava",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 328,
+        "moves": []
+    },
+    {
+        "id": 330,
+        "name": "flygon",
+        "friendlyName": "Flygon",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 328,
+        "moves": []
+    },
+    {
+        "id": 331,
+        "name": "cacnea",
+        "friendlyName": "Cacnea",
+        "eggGroups": [
+            "Grass",
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 331,
+        "moves": []
+    },
+    {
+        "id": 332,
+        "name": "cacturne",
+        "friendlyName": "Cacturne",
+        "eggGroups": [
+            "Grass",
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 331,
+        "moves": []
+    },
+    {
+        "id": 333,
+        "name": "swablu",
+        "friendlyName": "Swablu",
+        "eggGroups": [
+            "Flying",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 333,
+        "moves": []
+    },
+    {
+        "id": 334,
+        "name": "altaria",
+        "friendlyName": "Altaria",
+        "eggGroups": [
+            "Flying",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 333,
+        "moves": []
+    },
+    {
+        "id": 335,
+        "name": "zangoose",
+        "friendlyName": "Zangoose",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 335,
+        "moves": []
+    },
+    {
+        "id": 336,
+        "name": "seviper",
+        "friendlyName": "Seviper",
+        "eggGroups": [
+            "Field",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 336,
+        "moves": []
+    },
+    {
+        "id": 337,
+        "name": "lunatone",
+        "friendlyName": "Lunatone",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 337,
+        "moves": []
+    },
+    {
+        "id": 338,
+        "name": "solrock",
+        "friendlyName": "Solrock",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 338,
+        "moves": []
+    },
+    {
+        "id": 339,
+        "name": "barboach",
+        "friendlyName": "Barboach",
+        "eggGroups": [
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 339,
+        "moves": []
+    },
+    {
+        "id": 340,
+        "name": "whiscash",
+        "friendlyName": "Whiscash",
+        "eggGroups": [
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 339,
+        "moves": []
+    },
+    {
+        "id": 341,
+        "name": "corphish",
+        "friendlyName": "Corphish",
+        "eggGroups": [
+            "Water 1",
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 341,
+        "moves": []
+    },
+    {
+        "id": 342,
+        "name": "crawdaunt",
+        "friendlyName": "Crawdaunt",
+        "eggGroups": [
+            "Water 1",
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 341,
+        "moves": []
+    },
+    {
+        "id": 343,
+        "name": "baltoy",
+        "friendlyName": "Baltoy",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 343,
+        "moves": []
+    },
+    {
+        "id": 344,
+        "name": "claydol",
+        "friendlyName": "Claydol",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 343,
+        "moves": []
+    },
+    {
+        "id": 345,
+        "name": "lileep",
+        "friendlyName": "Lileep",
+        "eggGroups": [
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 345,
+        "moves": []
+    },
+    {
+        "id": 346,
+        "name": "cradily",
+        "friendlyName": "Cradily",
+        "eggGroups": [
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 345,
+        "moves": []
+    },
+    {
+        "id": 347,
+        "name": "anorith",
+        "friendlyName": "Anorith",
+        "eggGroups": [
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 347,
+        "moves": []
+    },
+    {
+        "id": 348,
+        "name": "armaldo",
+        "friendlyName": "Armaldo",
+        "eggGroups": [
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 347,
+        "moves": []
+    },
+    {
+        "id": 349,
+        "name": "feebas",
+        "friendlyName": "Feebas",
+        "eggGroups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 349,
+        "moves": []
+    },
+    {
+        "id": 350,
+        "name": "milotic",
+        "friendlyName": "Milotic",
+        "eggGroups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 349,
+        "moves": []
+    },
+    {
+        "id": 351,
+        "name": "castform",
+        "friendlyName": "Castform",
+        "eggGroups": [
+            "Fairy",
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 351,
+        "moves": []
+    },
+    {
+        "id": 352,
+        "name": "kecleon",
+        "friendlyName": "Kecleon",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 352,
+        "moves": []
+    },
+    {
+        "id": 353,
+        "name": "shuppet",
+        "friendlyName": "Shuppet",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 353,
+        "moves": []
+    },
+    {
+        "id": 354,
+        "name": "banette",
+        "friendlyName": "Banette",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 353,
+        "moves": []
+    },
+    {
+        "id": 355,
+        "name": "duskull",
+        "friendlyName": "Duskull",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 355,
+        "moves": []
+    },
+    {
+        "id": 356,
+        "name": "dusclops",
+        "friendlyName": "Dusclops",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 355,
+        "moves": []
+    },
+    {
+        "id": 357,
+        "name": "tropius",
+        "friendlyName": "Tropius",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 357,
+        "moves": []
+    },
+    {
+        "id": 358,
+        "name": "chimecho",
+        "friendlyName": "Chimecho",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 433,
+        "moves": []
+    },
+    {
+        "id": 359,
+        "name": "absol",
+        "friendlyName": "Absol",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 359,
+        "moves": []
+    },
+    {
+        "id": 360,
+        "name": "wynaut",
+        "friendlyName": "Wynaut",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 360,
+        "moves": []
+    },
+    {
+        "id": 361,
+        "name": "snorunt",
+        "friendlyName": "Snorunt",
+        "eggGroups": [
+            "Fairy",
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 361,
+        "moves": []
+    },
+    {
+        "id": 362,
+        "name": "glalie",
+        "friendlyName": "Glalie",
+        "eggGroups": [
+            "Fairy",
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 361,
+        "moves": []
+    },
+    {
+        "id": 363,
+        "name": "spheal",
+        "friendlyName": "Spheal",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 363,
+        "moves": []
+    },
+    {
+        "id": 364,
+        "name": "sealeo",
+        "friendlyName": "Sealeo",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 363,
+        "moves": []
+    },
+    {
+        "id": 365,
+        "name": "walrein",
+        "friendlyName": "Walrein",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 363,
+        "moves": []
+    },
+    {
+        "id": 366,
+        "name": "clamperl",
+        "friendlyName": "Clamperl",
+        "eggGroups": [
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 366,
+        "moves": []
+    },
+    {
+        "id": 367,
+        "name": "huntail",
+        "friendlyName": "Huntail",
+        "eggGroups": [
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 366,
+        "moves": []
+    },
+    {
+        "id": 368,
+        "name": "gorebyss",
+        "friendlyName": "Gorebyss",
+        "eggGroups": [
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 366,
+        "moves": []
+    },
+    {
+        "id": 369,
+        "name": "relicanth",
+        "friendlyName": "Relicanth",
+        "eggGroups": [
+            "Water 1",
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 369,
+        "moves": []
+    },
+    {
+        "id": 370,
+        "name": "luvdisc",
+        "friendlyName": "Luvdisc",
+        "eggGroups": [
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 370,
+        "moves": []
+    },
+    {
+        "id": 371,
+        "name": "bagon",
+        "friendlyName": "Bagon",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 371,
+        "moves": []
+    },
+    {
+        "id": 372,
+        "name": "shelgon",
+        "friendlyName": "Shelgon",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 371,
+        "moves": []
+    },
+    {
+        "id": 373,
+        "name": "salamence",
+        "friendlyName": "Salamence",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 371,
+        "moves": []
+    },
+    {
+        "id": 374,
+        "name": "beldum",
+        "friendlyName": "Beldum",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 374,
+        "moves": []
+    },
+    {
+        "id": 375,
+        "name": "metang",
+        "friendlyName": "Metang",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 374,
+        "moves": []
+    },
+    {
+        "id": 376,
+        "name": "metagross",
+        "friendlyName": "Metagross",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 374,
+        "moves": []
+    },
+    {
+        "id": 377,
+        "name": "regirock",
+        "friendlyName": "Regirock",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 377,
+        "moves": []
+    },
+    {
+        "id": 378,
+        "name": "regice",
+        "friendlyName": "Regice",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 378,
+        "moves": []
+    },
+    {
+        "id": 379,
+        "name": "registeel",
+        "friendlyName": "Registeel",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 379,
+        "moves": []
+    },
+    {
+        "id": 380,
+        "name": "latias",
+        "friendlyName": "Latias",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 380,
+        "moves": []
+    },
+    {
+        "id": 381,
+        "name": "latios",
+        "friendlyName": "Latios",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 381,
+        "moves": []
+    },
+    {
+        "id": 382,
+        "name": "kyogre",
+        "friendlyName": "Kyogre",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 382,
+        "moves": []
+    },
+    {
+        "id": 383,
+        "name": "groudon",
+        "friendlyName": "Groudon",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 383,
+        "moves": []
+    },
+    {
+        "id": 384,
+        "name": "rayquaza",
+        "friendlyName": "Rayquaza",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 384,
+        "moves": []
+    },
+    {
+        "id": 385,
+        "name": "jirachi",
+        "friendlyName": "Jirachi",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 385,
+        "moves": []
+    },
+    {
+        "id": 386,
+        "name": "deoxys-normal",
+        "friendlyName": "Deoxys",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 386,
+        "moves": []
+    },
+    {
+        "id": 387,
+        "name": "turtwig",
+        "friendlyName": "Turtwig",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 387,
+        "moves": []
+    },
+    {
+        "id": 388,
+        "name": "grotle",
+        "friendlyName": "Grotle",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 387,
+        "moves": []
+    },
+    {
+        "id": 389,
+        "name": "torterra",
+        "friendlyName": "Torterra",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 387,
+        "moves": []
+    },
+    {
+        "id": 390,
+        "name": "chimchar",
+        "friendlyName": "Chimchar",
+        "eggGroups": [
+            "Field",
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 390,
+        "moves": []
+    },
+    {
+        "id": 391,
+        "name": "monferno",
+        "friendlyName": "Monferno",
+        "eggGroups": [
+            "Field",
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 390,
+        "moves": []
+    },
+    {
+        "id": 392,
+        "name": "infernape",
+        "friendlyName": "Infernape",
+        "eggGroups": [
+            "Field",
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 390,
+        "moves": []
+    },
+    {
+        "id": 393,
+        "name": "piplup",
+        "friendlyName": "Piplup",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 393,
+        "moves": []
+    },
+    {
+        "id": 394,
+        "name": "prinplup",
+        "friendlyName": "Prinplup",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 393,
+        "moves": []
+    },
+    {
+        "id": 395,
+        "name": "empoleon",
+        "friendlyName": "Empoleon",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 393,
+        "moves": []
+    },
+    {
+        "id": 396,
+        "name": "starly",
+        "friendlyName": "Starly",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 396,
+        "moves": []
+    },
+    {
+        "id": 397,
+        "name": "staravia",
+        "friendlyName": "Staravia",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 396,
+        "moves": []
+    },
+    {
+        "id": 398,
+        "name": "staraptor",
+        "friendlyName": "Staraptor",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 396,
+        "moves": []
+    },
+    {
+        "id": 399,
+        "name": "bidoof",
+        "friendlyName": "Bidoof",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 399,
+        "moves": []
+    },
+    {
+        "id": 400,
+        "name": "bibarel",
+        "friendlyName": "Bibarel",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 399,
+        "moves": []
+    },
+    {
+        "id": 401,
+        "name": "kricketot",
+        "friendlyName": "Kricketot",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 401,
+        "moves": []
+    },
+    {
+        "id": 402,
+        "name": "kricketune",
+        "friendlyName": "Kricketune",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 401,
+        "moves": []
+    },
+    {
+        "id": 403,
+        "name": "shinx",
+        "friendlyName": "Shinx",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 403,
+        "moves": []
+    },
+    {
+        "id": 404,
+        "name": "luxio",
+        "friendlyName": "Luxio",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 403,
+        "moves": []
+    },
+    {
+        "id": 405,
+        "name": "luxray",
+        "friendlyName": "Luxray",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 403,
+        "moves": []
+    },
+    {
+        "id": 406,
+        "name": "budew",
+        "friendlyName": "Budew",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 406,
+        "moves": []
+    },
+    {
+        "id": 407,
+        "name": "roserade",
+        "friendlyName": "Roserade",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 406,
+        "moves": []
+    },
+    {
+        "id": 408,
+        "name": "cranidos",
+        "friendlyName": "Cranidos",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 408,
+        "moves": []
+    },
+    {
+        "id": 409,
+        "name": "rampardos",
+        "friendlyName": "Rampardos",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 408,
+        "moves": []
+    },
+    {
+        "id": 410,
+        "name": "shieldon",
+        "friendlyName": "Shieldon",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 410,
+        "moves": []
+    },
+    {
+        "id": 411,
+        "name": "bastiodon",
+        "friendlyName": "Bastiodon",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 410,
+        "moves": []
+    },
+    {
+        "id": 412,
+        "name": "burmy",
+        "friendlyName": "Burmy",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 412,
+        "moves": []
+    },
+    {
+        "id": 413,
+        "name": "wormadam-plant",
+        "friendlyName": "Wormadam",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 412,
+        "moves": []
+    },
+    {
+        "id": 414,
+        "name": "mothim",
+        "friendlyName": "Mothim",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 412,
+        "moves": []
+    },
+    {
+        "id": 415,
+        "name": "combee",
+        "friendlyName": "Combee",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 415,
+        "moves": []
+    },
+    {
+        "id": 416,
+        "name": "vespiquen",
+        "friendlyName": "Vespiquen",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 415,
+        "moves": []
+    },
+    {
+        "id": 417,
+        "name": "pachirisu",
+        "friendlyName": "Pachirisu",
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 417,
+        "moves": []
+    },
+    {
+        "id": 418,
+        "name": "buizel",
+        "friendlyName": "Buizel",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 418,
+        "moves": []
+    },
+    {
+        "id": 419,
+        "name": "floatzel",
+        "friendlyName": "Floatzel",
+        "eggGroups": [
+            "Water 1",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 418,
+        "moves": []
+    },
+    {
+        "id": 420,
+        "name": "cherubi",
+        "friendlyName": "Cherubi",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 420,
+        "moves": []
+    },
+    {
+        "id": 421,
+        "name": "cherrim",
+        "friendlyName": "Cherrim",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 420,
+        "moves": []
+    },
+    {
+        "id": 422,
+        "name": "shellos",
+        "friendlyName": "Shellos",
+        "eggGroups": [
+            "Water 1",
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 422,
+        "moves": []
+    },
+    {
+        "id": 423,
+        "name": "gastrodon",
+        "friendlyName": "Gastrodon",
+        "eggGroups": [
+            "Water 1",
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 422,
+        "moves": []
+    },
+    {
+        "id": 424,
+        "name": "ambipom",
+        "friendlyName": "Ambipom",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 190,
+        "moves": []
+    },
+    {
+        "id": 425,
+        "name": "drifloon",
+        "friendlyName": "Drifloon",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 425,
+        "moves": []
+    },
+    {
+        "id": 426,
+        "name": "drifblim",
+        "friendlyName": "Drifblim",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 425,
+        "moves": []
+    },
+    {
+        "id": 427,
+        "name": "buneary",
+        "friendlyName": "Buneary",
+        "eggGroups": [
+            "Field",
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 427,
+        "moves": []
+    },
+    {
+        "id": 428,
+        "name": "lopunny",
+        "friendlyName": "Lopunny",
+        "eggGroups": [
+            "Field",
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 427,
+        "moves": []
+    },
+    {
+        "id": 429,
+        "name": "mismagius",
+        "friendlyName": "Mismagius",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 200,
+        "moves": []
+    },
+    {
+        "id": 430,
+        "name": "honchkrow",
+        "friendlyName": "Honchkrow",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 198,
+        "moves": []
+    },
+    {
+        "id": 431,
+        "name": "glameow",
+        "friendlyName": "Glameow",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 431,
+        "moves": []
+    },
+    {
+        "id": 432,
+        "name": "purugly",
+        "friendlyName": "Purugly",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 431,
+        "moves": []
+    },
+    {
+        "id": 433,
+        "name": "chingling",
+        "friendlyName": "Chingling",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 433,
+        "moves": []
+    },
+    {
+        "id": 434,
+        "name": "stunky",
+        "friendlyName": "Stunky",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 434,
+        "moves": []
+    },
+    {
+        "id": 435,
+        "name": "skuntank",
+        "friendlyName": "Skuntank",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 434,
+        "moves": []
+    },
+    {
+        "id": 436,
+        "name": "bronzor",
+        "friendlyName": "Bronzor",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 436,
+        "moves": []
+    },
+    {
+        "id": 437,
+        "name": "bronzong",
+        "friendlyName": "Bronzong",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 436,
+        "moves": []
+    },
+    {
+        "id": 438,
+        "name": "bonsly",
+        "friendlyName": "Bonsly",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 438,
+        "moves": []
+    },
+    {
+        "id": 439,
+        "name": "mime-jr",
+        "friendlyName": "Mime Jr.",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 439,
+        "moves": []
+    },
+    {
+        "id": 440,
+        "name": "happiny",
+        "friendlyName": "Happiny",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 440,
+        "moves": []
+    },
+    {
+        "id": 441,
+        "name": "chatot",
+        "friendlyName": "Chatot",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 441,
+        "moves": []
+    },
+    {
+        "id": 442,
+        "name": "spiritomb",
+        "friendlyName": "Spiritomb",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 442,
+        "moves": []
+    },
+    {
+        "id": 443,
+        "name": "gible",
+        "friendlyName": "Gible",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 443,
+        "moves": []
+    },
+    {
+        "id": 444,
+        "name": "gabite",
+        "friendlyName": "Gabite",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 443,
+        "moves": []
+    },
+    {
+        "id": 445,
+        "name": "garchomp",
+        "friendlyName": "Garchomp",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 443,
+        "moves": []
+    },
+    {
+        "id": 446,
+        "name": "munchlax",
+        "friendlyName": "Munchlax",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 446,
+        "moves": []
+    },
+    {
+        "id": 447,
+        "name": "riolu",
+        "friendlyName": "Riolu",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 447,
+        "moves": []
+    },
+    {
+        "id": 448,
+        "name": "lucario",
+        "friendlyName": "Lucario",
+        "eggGroups": [
+            "Field",
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 447,
+        "moves": []
+    },
+    {
+        "id": 449,
+        "name": "hippopotas",
+        "friendlyName": "Hippopotas",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 449,
+        "moves": []
+    },
+    {
+        "id": 450,
+        "name": "hippowdon",
+        "friendlyName": "Hippowdon",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 449,
+        "moves": []
+    },
+    {
+        "id": 451,
+        "name": "skorupi",
+        "friendlyName": "Skorupi",
+        "eggGroups": [
+            "Bug",
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 451,
+        "moves": []
+    },
+    {
+        "id": 452,
+        "name": "drapion",
+        "friendlyName": "Drapion",
+        "eggGroups": [
+            "Bug",
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 451,
+        "moves": []
+    },
+    {
+        "id": 453,
+        "name": "croagunk",
+        "friendlyName": "Croagunk",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 453,
+        "moves": []
+    },
+    {
+        "id": 454,
+        "name": "toxicroak",
+        "friendlyName": "Toxicroak",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 453,
+        "moves": []
+    },
+    {
+        "id": 455,
+        "name": "carnivine",
+        "friendlyName": "Carnivine",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 455,
+        "moves": []
+    },
+    {
+        "id": 456,
+        "name": "finneon",
+        "friendlyName": "Finneon",
+        "eggGroups": [
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 456,
+        "moves": []
+    },
+    {
+        "id": 457,
+        "name": "lumineon",
+        "friendlyName": "Lumineon",
+        "eggGroups": [
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 456,
+        "moves": []
+    },
+    {
+        "id": 458,
+        "name": "mantyke",
+        "friendlyName": "Mantyke",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 458,
+        "moves": []
+    },
+    {
+        "id": 459,
+        "name": "snover",
+        "friendlyName": "Snover",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 459,
+        "moves": []
+    },
+    {
+        "id": 460,
+        "name": "abomasnow",
+        "friendlyName": "Abomasnow",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 459,
+        "moves": []
+    },
+    {
+        "id": 461,
+        "name": "weavile",
+        "friendlyName": "Weavile",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 215,
+        "moves": []
+    },
+    {
+        "id": 462,
+        "name": "magnezone",
+        "friendlyName": "Magnezone",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 81,
+        "moves": []
+    },
+    {
+        "id": 463,
+        "name": "lickilicky",
+        "friendlyName": "Lickilicky",
+        "eggGroups": [
+            "Monster"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 108,
+        "moves": []
+    },
+    {
+        "id": 464,
+        "name": "rhyperior",
+        "friendlyName": "Rhyperior",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 111,
+        "moves": []
+    },
+    {
+        "id": 465,
+        "name": "tangrowth",
+        "friendlyName": "Tangrowth",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 114,
+        "moves": []
+    },
+    {
+        "id": 466,
+        "name": "electivire",
+        "friendlyName": "Electivire",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 239,
+        "moves": []
+    },
+    {
+        "id": 467,
+        "name": "magmortar",
+        "friendlyName": "Magmortar",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 240,
+        "moves": []
+    },
+    {
+        "id": 468,
+        "name": "togekiss",
+        "friendlyName": "Togekiss",
+        "eggGroups": [
+            "Flying",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 175,
+        "moves": []
+    },
+    {
+        "id": 469,
+        "name": "yanmega",
+        "friendlyName": "Yanmega",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 193,
+        "moves": []
+    },
+    {
+        "id": 470,
+        "name": "leafeon",
+        "friendlyName": "Leafeon",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 133,
+        "moves": []
+    },
+    {
+        "id": 471,
+        "name": "glaceon",
+        "friendlyName": "Glaceon",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 133,
+        "moves": []
+    },
+    {
+        "id": 472,
+        "name": "gliscor",
+        "friendlyName": "Gliscor",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 207,
+        "moves": []
+    },
+    {
+        "id": 473,
+        "name": "mamoswine",
+        "friendlyName": "Mamoswine",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 220,
+        "moves": []
+    },
+    {
+        "id": 474,
+        "name": "porygon-z",
+        "friendlyName": "Porygon-Z",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 137,
+        "moves": []
+    },
+    {
+        "id": 475,
+        "name": "gallade",
+        "friendlyName": "Gallade",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 280,
+        "moves": []
+    },
+    {
+        "id": 476,
+        "name": "probopass",
+        "friendlyName": "Probopass",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 299,
+        "moves": []
+    },
+    {
+        "id": 477,
+        "name": "dusknoir",
+        "friendlyName": "Dusknoir",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 355,
+        "moves": []
+    },
+    {
+        "id": 478,
+        "name": "froslass",
+        "friendlyName": "Froslass",
+        "eggGroups": [
+            "Fairy",
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 361,
+        "moves": []
+    },
+    {
+        "id": 479,
+        "name": "rotom",
+        "friendlyName": "Rotom",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 479,
+        "moves": []
+    },
+    {
+        "id": 480,
+        "name": "uxie",
+        "friendlyName": "Uxie",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 480,
+        "moves": []
+    },
+    {
+        "id": 481,
+        "name": "mesprit",
+        "friendlyName": "Mesprit",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 481,
+        "moves": []
+    },
+    {
+        "id": 482,
+        "name": "azelf",
+        "friendlyName": "Azelf",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 482,
+        "moves": []
+    },
+    {
+        "id": 483,
+        "name": "dialga",
+        "friendlyName": "Dialga",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 483,
+        "moves": []
+    },
+    {
+        "id": 484,
+        "name": "palkia",
+        "friendlyName": "Palkia",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 484,
+        "moves": []
+    },
+    {
+        "id": 485,
+        "name": "heatran",
+        "friendlyName": "Heatran",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 485,
+        "moves": []
+    },
+    {
+        "id": 486,
+        "name": "regigigas",
+        "friendlyName": "Regigigas",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 486,
+        "moves": []
+    },
+    {
+        "id": 487,
+        "name": "giratina-altered",
+        "friendlyName": "Giratina",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 487,
+        "moves": []
+    },
+    {
+        "id": 488,
+        "name": "cresselia",
+        "friendlyName": "Cresselia",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 488,
+        "moves": []
+    },
+    {
+        "id": 489,
+        "name": "phione",
+        "friendlyName": "Phione",
+        "eggGroups": [
+            "Water 1",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 489,
+        "moves": []
+    },
+    {
+        "id": 490,
+        "name": "manaphy",
+        "friendlyName": "Manaphy",
+        "eggGroups": [
+            "Water 1",
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 490,
+        "moves": []
+    },
+    {
+        "id": 491,
+        "name": "darkrai",
+        "friendlyName": "Darkrai",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 491,
+        "moves": []
+    },
+    {
+        "id": 492,
+        "name": "shaymin-land",
+        "friendlyName": "Shaymin",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 492,
+        "moves": []
+    },
+    {
+        "id": 493,
+        "name": "arceus",
+        "friendlyName": "Arceus",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 493,
+        "moves": []
+    },
+    {
+        "id": 494,
+        "name": "victini",
+        "friendlyName": "Victini",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 494,
+        "moves": []
+    },
+    {
+        "id": 495,
+        "name": "snivy",
+        "friendlyName": "Snivy",
+        "eggGroups": [
+            "Field",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 495,
+        "moves": []
+    },
+    {
+        "id": 496,
+        "name": "servine",
+        "friendlyName": "Servine",
+        "eggGroups": [
+            "Field",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 495,
+        "moves": []
+    },
+    {
+        "id": 497,
+        "name": "serperior",
+        "friendlyName": "Serperior",
+        "eggGroups": [
+            "Field",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 495,
+        "moves": []
+    },
+    {
+        "id": 498,
+        "name": "tepig",
+        "friendlyName": "Tepig",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 498,
+        "moves": []
+    },
+    {
+        "id": 499,
+        "name": "pignite",
+        "friendlyName": "Pignite",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 498,
+        "moves": []
+    },
+    {
+        "id": 500,
+        "name": "emboar",
+        "friendlyName": "Emboar",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 498,
+        "moves": []
+    },
+    {
+        "id": 501,
+        "name": "oshawott",
+        "friendlyName": "Oshawott",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 501,
+        "moves": []
+    },
+    {
+        "id": 502,
+        "name": "dewott",
+        "friendlyName": "Dewott",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 501,
+        "moves": []
+    },
+    {
+        "id": 503,
+        "name": "samurott",
+        "friendlyName": "Samurott",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 501,
+        "moves": []
+    },
+    {
+        "id": 504,
+        "name": "patrat",
+        "friendlyName": "Patrat",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 504,
+        "moves": []
+    },
+    {
+        "id": 505,
+        "name": "watchog",
+        "friendlyName": "Watchog",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 504,
+        "moves": []
+    },
+    {
+        "id": 506,
+        "name": "lillipup",
+        "friendlyName": "Lillipup",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 506,
+        "moves": []
+    },
+    {
+        "id": 507,
+        "name": "herdier",
+        "friendlyName": "Herdier",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 506,
+        "moves": []
+    },
+    {
+        "id": 508,
+        "name": "stoutland",
+        "friendlyName": "Stoutland",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 506,
+        "moves": []
+    },
+    {
+        "id": 509,
+        "name": "purrloin",
+        "friendlyName": "Purrloin",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 509,
+        "moves": []
+    },
+    {
+        "id": 510,
+        "name": "liepard",
+        "friendlyName": "Liepard",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 509,
+        "moves": []
+    },
+    {
+        "id": 511,
+        "name": "pansage",
+        "friendlyName": "Pansage",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 511,
+        "moves": []
+    },
+    {
+        "id": 512,
+        "name": "simisage",
+        "friendlyName": "Simisage",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 511,
+        "moves": []
+    },
+    {
+        "id": 513,
+        "name": "pansear",
+        "friendlyName": "Pansear",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 513,
+        "moves": []
+    },
+    {
+        "id": 514,
+        "name": "simisear",
+        "friendlyName": "Simisear",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 513,
+        "moves": []
+    },
+    {
+        "id": 515,
+        "name": "panpour",
+        "friendlyName": "Panpour",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 515,
+        "moves": []
+    },
+    {
+        "id": 516,
+        "name": "simipour",
+        "friendlyName": "Simipour",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 515,
+        "moves": []
+    },
+    {
+        "id": 517,
+        "name": "munna",
+        "friendlyName": "Munna",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 517,
+        "moves": []
+    },
+    {
+        "id": 518,
+        "name": "musharna",
+        "friendlyName": "Musharna",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 517,
+        "moves": []
+    },
+    {
+        "id": 519,
+        "name": "pidove",
+        "friendlyName": "Pidove",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 519,
+        "moves": []
+    },
+    {
+        "id": 520,
+        "name": "tranquill",
+        "friendlyName": "Tranquill",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 519,
+        "moves": []
+    },
+    {
+        "id": 521,
+        "name": "unfezant",
+        "friendlyName": "Unfezant",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 519,
+        "moves": []
+    },
+    {
+        "id": 522,
+        "name": "blitzle",
+        "friendlyName": "Blitzle",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 522,
+        "moves": []
+    },
+    {
+        "id": 523,
+        "name": "zebstrika",
+        "friendlyName": "Zebstrika",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 522,
+        "moves": []
+    },
+    {
+        "id": 524,
+        "name": "roggenrola",
+        "friendlyName": "Roggenrola",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 524,
+        "moves": []
+    },
+    {
+        "id": 525,
+        "name": "boldore",
+        "friendlyName": "Boldore",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 524,
+        "moves": []
+    },
+    {
+        "id": 526,
+        "name": "gigalith",
+        "friendlyName": "Gigalith",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 524,
+        "moves": []
+    },
+    {
+        "id": 527,
+        "name": "woobat",
+        "friendlyName": "Woobat",
+        "eggGroups": [
+            "Flying",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 527,
+        "moves": []
+    },
+    {
+        "id": 528,
+        "name": "swoobat",
+        "friendlyName": "Swoobat",
+        "eggGroups": [
+            "Flying",
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 527,
+        "moves": []
+    },
+    {
+        "id": 529,
+        "name": "drilbur",
+        "friendlyName": "Drilbur",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 529,
+        "moves": []
+    },
+    {
+        "id": 530,
+        "name": "excadrill",
+        "friendlyName": "Excadrill",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 529,
+        "moves": []
+    },
+    {
+        "id": 531,
+        "name": "audino",
+        "friendlyName": "Audino",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 531,
+        "moves": []
+    },
+    {
+        "id": 532,
+        "name": "timburr",
+        "friendlyName": "Timburr",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 532,
+        "moves": []
+    },
+    {
+        "id": 533,
+        "name": "gurdurr",
+        "friendlyName": "Gurdurr",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 532,
+        "moves": []
+    },
+    {
+        "id": 534,
+        "name": "conkeldurr",
+        "friendlyName": "Conkeldurr",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            75,
+            25
+        ],
+        "lowestEvolutionId": 532,
+        "moves": []
+    },
+    {
+        "id": 535,
+        "name": "tympole",
+        "friendlyName": "Tympole",
+        "eggGroups": [
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 535,
+        "moves": []
+    },
+    {
+        "id": 536,
+        "name": "palpitoad",
+        "friendlyName": "Palpitoad",
+        "eggGroups": [
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 535,
+        "moves": []
+    },
+    {
+        "id": 537,
+        "name": "seismitoad",
+        "friendlyName": "Seismitoad",
+        "eggGroups": [
+            "Water 1"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 535,
+        "moves": []
+    },
+    {
+        "id": 538,
+        "name": "throh",
+        "friendlyName": "Throh",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 538,
+        "moves": []
+    },
+    {
+        "id": 539,
+        "name": "sawk",
+        "friendlyName": "Sawk",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 539,
+        "moves": []
+    },
+    {
+        "id": 540,
+        "name": "sewaddle",
+        "friendlyName": "Sewaddle",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 540,
+        "moves": []
+    },
+    {
+        "id": 541,
+        "name": "swadloon",
+        "friendlyName": "Swadloon",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 540,
+        "moves": []
+    },
+    {
+        "id": 542,
+        "name": "leavanny",
+        "friendlyName": "Leavanny",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 540,
+        "moves": []
+    },
+    {
+        "id": 543,
+        "name": "venipede",
+        "friendlyName": "Venipede",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 543,
+        "moves": []
+    },
+    {
+        "id": 544,
+        "name": "whirlipede",
+        "friendlyName": "Whirlipede",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 543,
+        "moves": []
+    },
+    {
+        "id": 545,
+        "name": "scolipede",
+        "friendlyName": "Scolipede",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 543,
+        "moves": []
+    },
+    {
+        "id": 546,
+        "name": "cottonee",
+        "friendlyName": "Cottonee",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 546,
+        "moves": []
+    },
+    {
+        "id": 547,
+        "name": "whimsicott",
+        "friendlyName": "Whimsicott",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 546,
+        "moves": []
+    },
+    {
+        "id": 548,
+        "name": "petilil",
+        "friendlyName": "Petilil",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 548,
+        "moves": []
+    },
+    {
+        "id": 549,
+        "name": "lilligant",
+        "friendlyName": "Lilligant",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 548,
+        "moves": []
+    },
+    {
+        "id": 550,
+        "name": "basculin-red-striped",
+        "friendlyName": "Basculin",
+        "eggGroups": [
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 550,
+        "moves": []
+    },
+    {
+        "id": 551,
+        "name": "sandile",
+        "friendlyName": "Sandile",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 551,
+        "moves": []
+    },
+    {
+        "id": 552,
+        "name": "krokorok",
+        "friendlyName": "Krokorok",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 551,
+        "moves": []
+    },
+    {
+        "id": 553,
+        "name": "krookodile",
+        "friendlyName": "Krookodile",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 551,
+        "moves": []
+    },
+    {
+        "id": 554,
+        "name": "darumaka",
+        "friendlyName": "Darumaka",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 554,
+        "moves": []
+    },
+    {
+        "id": 555,
+        "name": "darmanitan-standard",
+        "friendlyName": "Darmanitan",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 554,
+        "moves": []
+    },
+    {
+        "id": 556,
+        "name": "maractus",
+        "friendlyName": "Maractus",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 556,
+        "moves": []
+    },
+    {
+        "id": 557,
+        "name": "dwebble",
+        "friendlyName": "Dwebble",
+        "eggGroups": [
+            "Bug",
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 557,
+        "moves": []
+    },
+    {
+        "id": 558,
+        "name": "crustle",
+        "friendlyName": "Crustle",
+        "eggGroups": [
+            "Bug",
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 557,
+        "moves": []
+    },
+    {
+        "id": 559,
+        "name": "scraggy",
+        "friendlyName": "Scraggy",
+        "eggGroups": [
+            "Field",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 559,
+        "moves": []
+    },
+    {
+        "id": 560,
+        "name": "scrafty",
+        "friendlyName": "Scrafty",
+        "eggGroups": [
+            "Field",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 559,
+        "moves": []
+    },
+    {
+        "id": 561,
+        "name": "sigilyph",
+        "friendlyName": "Sigilyph",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 561,
+        "moves": []
+    },
+    {
+        "id": 562,
+        "name": "yamask",
+        "friendlyName": "Yamask",
+        "eggGroups": [
+            "Mineral",
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 562,
+        "moves": []
+    },
+    {
+        "id": 563,
+        "name": "cofagrigus",
+        "friendlyName": "Cofagrigus",
+        "eggGroups": [
+            "Mineral",
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 562,
+        "moves": []
+    },
+    {
+        "id": 564,
+        "name": "tirtouga",
+        "friendlyName": "Tirtouga",
+        "eggGroups": [
+            "Water 1",
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 564,
+        "moves": []
+    },
+    {
+        "id": 565,
+        "name": "carracosta",
+        "friendlyName": "Carracosta",
+        "eggGroups": [
+            "Water 1",
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 564,
+        "moves": []
+    },
+    {
+        "id": 566,
+        "name": "archen",
+        "friendlyName": "Archen",
+        "eggGroups": [
+            "Flying",
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 566,
+        "moves": []
+    },
+    {
+        "id": 567,
+        "name": "archeops",
+        "friendlyName": "Archeops",
+        "eggGroups": [
+            "Flying",
+            "Water 3"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 566,
+        "moves": []
+    },
+    {
+        "id": 568,
+        "name": "trubbish",
+        "friendlyName": "Trubbish",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 568,
+        "moves": []
+    },
+    {
+        "id": 569,
+        "name": "garbodor",
+        "friendlyName": "Garbodor",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 568,
+        "moves": []
+    },
+    {
+        "id": 570,
+        "name": "zorua",
+        "friendlyName": "Zorua",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 570,
+        "moves": []
+    },
+    {
+        "id": 571,
+        "name": "zoroark",
+        "friendlyName": "Zoroark",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            87.5,
+            12.5
+        ],
+        "lowestEvolutionId": 570,
+        "moves": []
+    },
+    {
+        "id": 572,
+        "name": "minccino",
+        "friendlyName": "Minccino",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 572,
+        "moves": []
+    },
+    {
+        "id": 573,
+        "name": "cinccino",
+        "friendlyName": "Cinccino",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 572,
+        "moves": []
+    },
+    {
+        "id": 574,
+        "name": "gothita",
+        "friendlyName": "Gothita",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 574,
+        "moves": []
+    },
+    {
+        "id": 575,
+        "name": "gothorita",
+        "friendlyName": "Gothorita",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 574,
+        "moves": []
+    },
+    {
+        "id": 576,
+        "name": "gothitelle",
+        "friendlyName": "Gothitelle",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            25,
+            75
+        ],
+        "lowestEvolutionId": 574,
+        "moves": []
+    },
+    {
+        "id": 577,
+        "name": "solosis",
+        "friendlyName": "Solosis",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 577,
+        "moves": []
+    },
+    {
+        "id": 578,
+        "name": "duosion",
+        "friendlyName": "Duosion",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 577,
+        "moves": []
+    },
+    {
+        "id": 579,
+        "name": "reuniclus",
+        "friendlyName": "Reuniclus",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 577,
+        "moves": []
+    },
+    {
+        "id": 580,
+        "name": "ducklett",
+        "friendlyName": "Ducklett",
+        "eggGroups": [
+            "Water 1",
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 580,
+        "moves": []
+    },
+    {
+        "id": 581,
+        "name": "swanna",
+        "friendlyName": "Swanna",
+        "eggGroups": [
+            "Water 1",
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 580,
+        "moves": []
+    },
+    {
+        "id": 582,
+        "name": "vanillite",
+        "friendlyName": "Vanillite",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 582,
+        "moves": []
+    },
+    {
+        "id": 583,
+        "name": "vanillish",
+        "friendlyName": "Vanillish",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 582,
+        "moves": []
+    },
+    {
+        "id": 584,
+        "name": "vanilluxe",
+        "friendlyName": "Vanilluxe",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 582,
+        "moves": []
+    },
+    {
+        "id": 585,
+        "name": "deerling",
+        "friendlyName": "Deerling",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 585,
+        "moves": []
+    },
+    {
+        "id": 586,
+        "name": "sawsbuck",
+        "friendlyName": "Sawsbuck",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 585,
+        "moves": []
+    },
+    {
+        "id": 587,
+        "name": "emolga",
+        "friendlyName": "Emolga",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 587,
+        "moves": []
+    },
+    {
+        "id": 588,
+        "name": "karrablast",
+        "friendlyName": "Karrablast",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 588,
+        "moves": []
+    },
+    {
+        "id": 589,
+        "name": "escavalier",
+        "friendlyName": "Escavalier",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 588,
+        "moves": []
+    },
+    {
+        "id": 590,
+        "name": "foongus",
+        "friendlyName": "Foongus",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 590,
+        "moves": []
+    },
+    {
+        "id": 591,
+        "name": "amoonguss",
+        "friendlyName": "Amoonguss",
+        "eggGroups": [
+            "Grass"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 590,
+        "moves": []
+    },
+    {
+        "id": 592,
+        "name": "frillish",
+        "friendlyName": "Frillish",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 592,
+        "moves": []
+    },
+    {
+        "id": 593,
+        "name": "jellicent",
+        "friendlyName": "Jellicent",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 592,
+        "moves": []
+    },
+    {
+        "id": 594,
+        "name": "alomomola",
+        "friendlyName": "Alomomola",
+        "eggGroups": [
+            "Water 1",
+            "Water 2"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 594,
+        "moves": []
+    },
+    {
+        "id": 595,
+        "name": "joltik",
+        "friendlyName": "Joltik",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 595,
+        "moves": []
+    },
+    {
+        "id": 596,
+        "name": "galvantula",
+        "friendlyName": "Galvantula",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 595,
+        "moves": []
+    },
+    {
+        "id": 597,
+        "name": "ferroseed",
+        "friendlyName": "Ferroseed",
+        "eggGroups": [
+            "Grass",
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 597,
+        "moves": []
+    },
+    {
+        "id": 598,
+        "name": "ferrothorn",
+        "friendlyName": "Ferrothorn",
+        "eggGroups": [
+            "Grass",
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 597,
+        "moves": []
+    },
+    {
+        "id": 599,
+        "name": "klink",
+        "friendlyName": "Klink",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 599,
+        "moves": []
+    },
+    {
+        "id": 600,
+        "name": "klang",
+        "friendlyName": "Klang",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 599,
+        "moves": []
+    },
+    {
+        "id": 601,
+        "name": "klinklang",
+        "friendlyName": "Klinklang",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 599,
+        "moves": []
+    },
+    {
+        "id": 602,
+        "name": "tynamo",
+        "friendlyName": "Tynamo",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 602,
+        "moves": []
+    },
+    {
+        "id": 603,
+        "name": "eelektrik",
+        "friendlyName": "Eelektrik",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 602,
+        "moves": []
+    },
+    {
+        "id": 604,
+        "name": "eelektross",
+        "friendlyName": "Eelektross",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 602,
+        "moves": []
+    },
+    {
+        "id": 605,
+        "name": "elgyem",
+        "friendlyName": "Elgyem",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 605,
+        "moves": []
+    },
+    {
+        "id": 606,
+        "name": "beheeyem",
+        "friendlyName": "Beheeyem",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 605,
+        "moves": []
+    },
+    {
+        "id": 607,
+        "name": "litwick",
+        "friendlyName": "Litwick",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 607,
+        "moves": []
+    },
+    {
+        "id": 608,
+        "name": "lampent",
+        "friendlyName": "Lampent",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 607,
+        "moves": []
+    },
+    {
+        "id": 609,
+        "name": "chandelure",
+        "friendlyName": "Chandelure",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 607,
+        "moves": []
+    },
+    {
+        "id": 610,
+        "name": "axew",
+        "friendlyName": "Axew",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 610,
+        "moves": []
+    },
+    {
+        "id": 611,
+        "name": "fraxure",
+        "friendlyName": "Fraxure",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 610,
+        "moves": []
+    },
+    {
+        "id": 612,
+        "name": "haxorus",
+        "friendlyName": "Haxorus",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 610,
+        "moves": []
+    },
+    {
+        "id": 613,
+        "name": "cubchoo",
+        "friendlyName": "Cubchoo",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 613,
+        "moves": []
+    },
+    {
+        "id": 614,
+        "name": "beartic",
+        "friendlyName": "Beartic",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 613,
+        "moves": []
+    },
+    {
+        "id": 615,
+        "name": "cryogonal",
+        "friendlyName": "Cryogonal",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 615,
+        "moves": []
+    },
+    {
+        "id": 616,
+        "name": "shelmet",
+        "friendlyName": "Shelmet",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 616,
+        "moves": []
+    },
+    {
+        "id": 617,
+        "name": "accelgor",
+        "friendlyName": "Accelgor",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 616,
+        "moves": []
+    },
+    {
+        "id": 618,
+        "name": "stunfisk",
+        "friendlyName": "Stunfisk",
+        "eggGroups": [
+            "Water 1",
+            "Amorphous"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 618,
+        "moves": []
+    },
+    {
+        "id": 619,
+        "name": "mienfoo",
+        "friendlyName": "Mienfoo",
+        "eggGroups": [
+            "Field",
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 619,
+        "moves": []
+    },
+    {
+        "id": 620,
+        "name": "mienshao",
+        "friendlyName": "Mienshao",
+        "eggGroups": [
+            "Field",
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 619,
+        "moves": []
+    },
+    {
+        "id": 621,
+        "name": "druddigon",
+        "friendlyName": "Druddigon",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 621,
+        "moves": []
+    },
+    {
+        "id": 622,
+        "name": "golett",
+        "friendlyName": "Golett",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 622,
+        "moves": []
+    },
+    {
+        "id": 623,
+        "name": "golurk",
+        "friendlyName": "Golurk",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 622,
+        "moves": []
+    },
+    {
+        "id": 624,
+        "name": "pawniard",
+        "friendlyName": "Pawniard",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 624,
+        "moves": []
+    },
+    {
+        "id": 625,
+        "name": "bisharp",
+        "friendlyName": "Bisharp",
+        "eggGroups": [
+            "Human-Like"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 624,
+        "moves": []
+    },
+    {
+        "id": 626,
+        "name": "bouffalant",
+        "friendlyName": "Bouffalant",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 626,
+        "moves": []
+    },
+    {
+        "id": 627,
+        "name": "rufflet",
+        "friendlyName": "Rufflet",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 627,
+        "moves": []
+    },
+    {
+        "id": 628,
+        "name": "braviary",
+        "friendlyName": "Braviary",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 627,
+        "moves": []
+    },
+    {
+        "id": 629,
+        "name": "vullaby",
+        "friendlyName": "Vullaby",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 629,
+        "moves": []
+    },
+    {
+        "id": 630,
+        "name": "mandibuzz",
+        "friendlyName": "Mandibuzz",
+        "eggGroups": [
+            "Flying"
+        ],
+        "maleToFemaleRatio": [
+            0,
+            100
+        ],
+        "lowestEvolutionId": 629,
+        "moves": []
+    },
+    {
+        "id": 631,
+        "name": "heatmor",
+        "friendlyName": "Heatmor",
+        "eggGroups": [
+            "Field"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 631,
+        "moves": []
+    },
+    {
+        "id": 632,
+        "name": "durant",
+        "friendlyName": "Durant",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 632,
+        "moves": []
+    },
+    {
+        "id": 633,
+        "name": "deino",
+        "friendlyName": "Deino",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 633,
+        "moves": []
+    },
+    {
+        "id": 634,
+        "name": "zweilous",
+        "friendlyName": "Zweilous",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 633,
+        "moves": []
+    },
+    {
+        "id": 635,
+        "name": "hydreigon",
+        "friendlyName": "Hydreigon",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 633,
+        "moves": []
+    },
+    {
+        "id": 636,
+        "name": "larvesta",
+        "friendlyName": "Larvesta",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 636,
+        "moves": []
+    },
+    {
+        "id": 637,
+        "name": "volcarona",
+        "friendlyName": "Volcarona",
+        "eggGroups": [
+            "Bug"
+        ],
+        "maleToFemaleRatio": [
+            50,
+            50
+        ],
+        "lowestEvolutionId": 636,
+        "moves": []
+    },
+    {
+        "id": 638,
+        "name": "cobalion",
+        "friendlyName": "Cobalion",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 638,
+        "moves": []
+    },
+    {
+        "id": 639,
+        "name": "terrakion",
+        "friendlyName": "Terrakion",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 639,
+        "moves": []
+    },
+    {
+        "id": 640,
+        "name": "virizion",
+        "friendlyName": "Virizion",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 640,
+        "moves": []
+    },
+    {
+        "id": 641,
+        "name": "tornadus-incarnate",
+        "friendlyName": "Tornadus",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 641,
+        "moves": []
+    },
+    {
+        "id": 642,
+        "name": "thundurus-incarnate",
+        "friendlyName": "Thundurus",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [
+            100,
+            0
+        ],
+        "lowestEvolutionId": 642,
+        "moves": []
+    },
+    {
+        "id": 643,
+        "name": "reshiram",
+        "friendlyName": "Reshiram",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 643,
+        "moves": []
+    },
+    {
+        "id": 644,
+        "name": "zekrom",
+        "friendlyName": "Zekrom",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "maleToFemaleRatio": [],
+        "lowestEvolutionId": 644,
+        "moves": []
+    }
+]
