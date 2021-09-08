@@ -15,7 +15,7 @@ export interface PokemonData {
     friendlyName: string;
     eggGroups: string[];
     lowestEvolutionId: number;
-    maleToFemaleRatio: number;
+    maleToFemaleRatio: number[];
     potentialMoves: string[];
 }
 
@@ -49,7 +49,8 @@ export enum EggGroup {
 export enum Gender {
     Male = "male",
     Female = "female",
-    Genderless = "genderless"
+    Genderless = "genderless",
+    Unknown = "unknown"
 }
 
 export enum Nature {
@@ -77,11 +78,12 @@ export enum Nature {
     Relaxed = "relaxed",
     Sassy = "sassy",
     Serious = "serious",
-    Timid = "timid"
+    Timid = "timid",
+    Unknown = "unknown"
 }
 
 export enum Item {
-    Everstone = "everstone",
+    Everstone = "everstone", // nature
     PowerWeight = "power-weight", // hp
     PowerBracer = "power-bracer", // attack
     PowerBelt = "power-belt", // defense
